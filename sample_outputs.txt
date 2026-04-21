@@ -1,0 +1,24 @@
+--- Prompt 1 ---
+INPUT:
+Explain what a large language model is in 2 sentences.
+
+OUTPUT:
+A large language model is a machine learning model trained on large amounts of text data to understand and generate human-like language. It predicts the next word in a sequence based on patterns it has learned.
+
+--- Prompt 2 ---
+INPUT:
+Write a haiku about artificial intelligence.
+
+OUTPUT:
+Silent circuits hum  
+Learning patterns endlessly  
+Thoughts without a mind
+
+--- Prompt 3 ---
+INPUT:
+Give 3 study tips for preparing for an exam.
+
+OUTPUT:
+1. Start studying early and review regularly.  
+2. Practice with sample problems or past exams.  
+3. Take breaks and get enough sleep before the test.
